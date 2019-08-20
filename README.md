@@ -1,2 +1,30 @@
 # CGVRPTW_Seminar
 column generation for vrptw
+
+subproblem：model + cplex to solve.
+
+author : Seminar
+
+
+
+![?? | 10????????column generation(???)??????java??
+](https://www.jianshu.com/p/efb59a5d1b13)
+
+![?? | 10?????column generation??vehicle routing problems
+](https://www.jianshu.com/p/85c03ed31940)
+
+![?? | ???VRPTW???ESPPRC( Elementary shortest path problem with resource constraints)???C++??
+](https://www.jianshu.com/p/43746735b9b9)
+
+![?? | column generation??VRPTW?? java????
+](https://www.jianshu.com/p/7bec2d3fbc81)
+
+
+**???????????!????????!**
+
+![](http://upload-images.jianshu.io/upload_images/10386940-ba0c519723650398.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
